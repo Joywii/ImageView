@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td>
-      <img src=1.gif>
+      <img src=1.gif border==0 >
     </td>
     <td>
-      <img src=2.gif>
+      <img src=2.gif border=0 >
     </td>
   </tr>
 </table>
